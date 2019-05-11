@@ -1,5 +1,5 @@
 # BitrixDocker
-BitrixDock позволяет легко и просто запускать **Bitrix CMS** на **Docker**.
+BitrixDocker позволяет легко и просто запускать **Bitrix CMS** на **Docker**.
 
 ## Введение
 BitrixDocker облегчает разработку на Битрикс предоставляя готовые сервисы PHP, NGINX, MySQL и многие другие.
