@@ -48,6 +48,8 @@ RUN  wget -O memcache.tgz https://codeload.github.com/websupport-sk/pecl-memcach
 
 RUN docker-php-ext-enable memcache
 
+RUN apk add composer
+
 # MSMTP
 ADD msmtprc /etc/msmtprc
 RUN chmod 0600 /etc/msmtprc && \
