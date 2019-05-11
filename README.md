@@ -34,7 +34,7 @@ SITE_PATH=/var/www/bitrix  # Путь к директории Вашего са�
 
 ```
 
-- Запустите bitrixdock
+- Запустите bitrixdocker
 ```
 docker-compose up -d
 ```
